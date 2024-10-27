@@ -2,6 +2,10 @@ import json
 import boto3
 from botocore.exceptions import ClientError
 
+#
+# Nuevo Comentario
+#
+
 # Initialize DynamoDB client
 dynamodb = boto3.resource('dynamodb')
 table = dynamodb.Table('UserProfiles')
