@@ -3,7 +3,7 @@ import boto3
 from botocore.exceptions import ClientError
 
 #
-# Nuevo Comentario6
+# Nuevo Comentario7
 #
 
 # Initialize DynamoDB client
